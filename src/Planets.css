@@ -1,0 +1,9 @@
+.pageItem {
+    margin: 0 10px;
+    color: blue;
+    cursor: pointer;
+}
+
+.pageItem:hover {
+    text-decoration: underline;
+}
