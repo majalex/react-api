@@ -1,3 +1,20 @@
+# API App
+
+This is a simple application that downloads data from https://swapi.dev/ API. This proggram includes pagination
+
+
+# Screenshot
+
+![Zrzut ekranu 2022-09-6 o 18 31 35](https://user-images.githubusercontent.com/105987428/188689507-07d4f0d3-f79b-46b3-82bf-d7272fd58260.png)
+
+
+
+## Tech Stack
+
+ReactJS
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
